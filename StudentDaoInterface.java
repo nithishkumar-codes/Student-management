@@ -1,7 +1,5 @@
 package com.studentManagement;
 
-//import com.sjprogramming.model.Student;
-
 public interface StudentDaoInterface {
     public boolean insertStudent(Student s);
     public boolean delete(int roll);
