@@ -1,10 +1,6 @@
 
 package com.studentManagement;
 
-/*import com.sjprogramming.dao.StudentDao;
-import com.sjprogramming.dao.StudentDaoInterface;
-import com.sjprogramming.model.Student;*/
-
 import java.util.Scanner;
 
 public class Client {
